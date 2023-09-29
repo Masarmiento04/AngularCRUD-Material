@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJu5h6Ww4MWHHmCnFTyKZRb08JPKuOMF0c8PAnxhVKcbAPUrXB64GV7pnuQ3O+d2rkqmA2fIdw5+xV3QV+BVDA==",
+  "dgSpecHash": "cWnnTxU/enh5vGMQKk9NygPvijkAzxbrCDjnvj7XP2tkLGALgvEhN2K4dhIA7kmqSjAX0AfBO8re8pLMHYSHmA==",
   "success": true,
-  "projectFilePath": "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
+  "projectFilePath": "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sistemas\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Sistemas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

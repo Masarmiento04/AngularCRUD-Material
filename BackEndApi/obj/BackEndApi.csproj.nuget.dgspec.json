@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj": {}
+    "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj": {}
   },
   "projects": {
-    "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj": {
+    "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
+        "projectUniqueName": "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
         "projectName": "BackEndApi",
-        "projectPath": "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
+        "projectPath": "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\BackEndApi.csproj",
         "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
-        "outputPath": "d:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\obj\\",
+        "outputPath": "D:\\Practicas\\WEB\\Angular\\AngularCRUD Material\\BackEndApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
