@@ -13,7 +13,7 @@ namespace BackEndApi.Utilidades {
             #region Empleado
             CreateMap<Empleado, EmpleadoDTO>()
                 .ForMember(destino =>
-                destino.NombreCompleto,
+                destino.NombreDepartamento,
                 opt => opt.MapFrom(origen => origen.IdDepartamentoNavigation.Nombre)
                 )
                 .ForMember(destino =>

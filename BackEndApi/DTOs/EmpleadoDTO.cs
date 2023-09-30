@@ -6,6 +6,8 @@
 
         public string? NombreCompleto { get; set; }
 
+        public int? IdDepartamento { get; set; }
+
         public string? NombreDepartamento { get; set; }
 
         public int? Sueldo { get; set; }
